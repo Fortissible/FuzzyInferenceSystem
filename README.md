@@ -1,4 +1,4 @@
-# FuzzyInfereceSystem
+# FuzzyInferenceSystem
 Fuzzy inference system with ggplot degree and center of gravity of the output class visualization
 
 ## Paper implementation
