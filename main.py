@@ -3,10 +3,6 @@ import matplotlib.pyplot as plt
 from FuzzyInferenceSystem import *
 
 # WILDAN FAJRI ALFARABI
-# G64190060
-# ga make library / package fuzzy bu saya, sekalian belajar :)
-# ada beberapa range dari paper yang diubah agar output cog rainfall sesuai
-# dengan yang di paper
 
 def rules(temp, w_speed, humid):
     r = np.zeros(5)
